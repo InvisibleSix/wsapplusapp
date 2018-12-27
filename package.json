@@ -1,0 +1,24 @@
+{
+  "name": "wsapplusapp",
+  "version": "1.0.0",
+  "description": "wsapplusapp app control",
+  "engines": {
+    "node": ">=0.4.0"
+  },
+  "author": {
+    "name": "zrsu",
+    "url": "http://www.zjft.com"
+  },
+  "dependencies": {
+	"wsapgac": "~1.0.0"
+  },
+  "devDependencies": {},
+  "repository": {},
+  "main": "./lib/wsapplusapp.js",
+  "directories": {},
+  "scripts": {},
+  "keywords": [
+    "status"
+  ],
+  "license": "MIT"
+}
